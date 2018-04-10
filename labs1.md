@@ -11,5 +11,8 @@ Analyze project portability
 * binary literals
 * digit separators
 * ref returns and ref locals
+* tuples
+* pattern matching
+* ...
 
 > What features would you likely use with the code you've written so far? Which syntax features can help?
